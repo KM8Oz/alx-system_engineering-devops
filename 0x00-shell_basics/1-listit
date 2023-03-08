@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /Users/novyjpolzovatel/Desktop/alx-system_engineering-devops
+ls $(pwd)
